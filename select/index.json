@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "風の向こうへ",
+  "base_artist": "ARASHI",
+  "createdAt": "2026-03-16T08:09:39.327879Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "風の向こうへ",
+      "artist": "ARASHI",
+      "has_synced": true,
+      "path": "select/01_風の向こうへ_ARASHI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "風の向こうへ",
+      "artist": "嵐",
+      "has_synced": true,
+      "path": "select/02_風の向こうへ_嵐.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "風の向こうへ",
+      "artist": "Arashi",
+      "has_synced": true,
+      "path": "select/03_風の向こうへ_Arashi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "風の向こうへ",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/04_風の向こうへ_嵐.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "風の向こうへ(カラオケ)",
+      "artist": "Arashi",
+      "has_synced": true,
+      "path": "select/05_風の向こうへ(カラオケ)_Arashi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "風の向こうへ(カラオケ)",
+      "artist": "嵐",
+      "has_synced": true,
+      "path": "select/06_風の向こうへ(カラオケ)_嵐.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "風の向こうへ",
+      "artist": "嵐",
+      "has_synced": false,
+      "path": "select/pl_01_風の向こうへ_嵐.txt"
+    }
+  ]
+}
